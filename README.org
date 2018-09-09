@@ -33,6 +33,7 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
 | Add user          | =uaac user add $username --emails $email -p $password=                         |
 | Add user to group | =uaac member add $user $group=                                                 |
 | Get user          | =uaac user get pks-admin=                                                      |
+| List users        | =uaac users=                                                                   |
 ** More Resources
 License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 #+BEGIN_HTML
